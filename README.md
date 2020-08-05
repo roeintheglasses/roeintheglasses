@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Hrishi Jangir, aka roeintheglasses, aka the sly fox coder. 
+## I'm Hrishi, aka roeintheglasses, aka the sly fox coder. 
 ## I'm a Developer/ Tech Head who loves building things.
 
 ### Have a project in mind that we can colaborate on? or Just want to hang out? Hit me up :
