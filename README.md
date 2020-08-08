@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Hrishi, aka roeintheglasses 👓, aka the sly fox coder 🦊. 
+### I'm Hrishi, aka roeintheglasses 👓. 
 ### I'm a Developer/ Tech Head who loves building things.
 #### Have a project in mind that we can colaborate on? or Just want to hang out? Hit me up :
 #### [Email 📫](mailto:hrkjangir@gmail.com) [Website 🌐](https://roeintheglasses.github.io) [Linkedin 💻](https://www.linkedin.com/in/hrishikesh-jangir) [Instagram 📷](https://www.instagram.com/roewuzhere/)
