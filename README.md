@@ -6,7 +6,7 @@
 [![Roe's github stats](https://github-readme-stats.vercel.app/api?username=roeintheglasses)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Have a project in mind that we can colaborate on? or Just want to hang out? Hit me up :
-#### [Email 📫](mailto:hrkjangir@gmail.com) [Website 🌐](https://roeintheglasses.tech) [Linkedin 💻](https://www.linkedin.com/in/hrishikesh-jangir)
+#### [Email 📫](mailto:hrkjangir@gmail.com) [Website 🌐](https://roeintheglasses.dev) [Linkedin 💻](https://www.linkedin.com/in/hrishikesh-jangir)
 
 <!--
 **roeintheglasses/roeintheglasses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
